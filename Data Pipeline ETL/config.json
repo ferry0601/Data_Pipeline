@@ -1,0 +1,16 @@
+{
+    "commerce":{
+        "host": "localhost",
+        "db": "commerce",
+        "user": "postgres",
+        "password": "postgres",
+        "port": "5437"
+    },
+    "dwh":{
+        "host": "localhost",
+        "db": "dwh",
+        "user": "postgres",
+        "password": "postgres",
+        "port": "5437"
+    }
+}
